@@ -61,8 +61,7 @@ Portuguese (native) • English • Finnish (basic, still learning)
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anduucool-181717?style=for-the-badge&logo=github)](https://github.com/Anduucool)
-[![LinkedIn](https://www.linkedin.com/in/anderson-teixeira-cybersecurity/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-teixeira-cybersecurity/)
 
 ---
 
