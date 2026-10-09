@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anderson Teixeira
 
-### Cybersecurity • Human Factors • Security Awareness • SME Consulting
+### Cybersecurity Graduate Candidate | Security Awareness & Human Factors | Aspiring SOC Analyst
 
 *Psychologist turned cybersecurity professional, based in Finland 🇫🇮*
 
